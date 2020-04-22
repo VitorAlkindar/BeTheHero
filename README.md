@@ -1,5 +1,6 @@
-<h1 align = "center">Be The Hero</h1>
+<h1 align = "center" color = #ff0000>Be The Hero</h1>
 
+#### Obs: Um site criado na intenção de ajudar animais de ruas ou abandonados. São casos cadastros com descriação da situção, você pode ajudar tal caso doando valores. Seja o herói.
 ### Aqui vai alguns prints da interface da aplicação:
 </br>
 
@@ -36,3 +37,5 @@
   <a href="LICENSE" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
+  
+  Feito com :orange_heart: by [Vitor Alkindar](https://github.com/VitorAlkindar) :wave: [Me adicione no Linkedin!](https://www.linkedin.com/in/vitor-alkindar-santos-1a3666189/)
