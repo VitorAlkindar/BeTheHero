@@ -1,7 +1,7 @@
 <h1 align = "center" color = #ff0000>Be The Hero</h1>
 
 ## :memo: Description
-- Um site criado na intenção de ajudar animais de rua ou abandonados. São casos cadastros com descriação da situção, você pode ajudar tal caso doando valores. Seja o herói.
+- Um site criado na intenção de ajudar animais de rua ou abandonados. São casos cadastrados com descrição da situção, você pode ajudar tal caso doando valores. Seja o herói.
 </br>
 
 ### :fire: Aqui vai alguns prints da interface da aplicação:
